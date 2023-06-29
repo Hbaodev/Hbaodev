@@ -1,7 +1,21 @@
-<!-- Hbaodev -->
-<a href="#" target="_blank">
-  <img src="svg/hbaodev.svg" width="1200" alt="HuyBao />
-</a>
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+.rainbow-text {
+  font-size: 24px; /* Điều chỉnh kích thước chữ */
+  text-align: center; /* Căn giữa văn bản */
+  background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+  display: inline-block;
+}
+</style>
+</head>
+<body>
+<p><span class="rainbow-text">Where to find me:</span> <a href="#" target="_blank">
+  <img src="svg/hbaodev.svg" width="1200" alt="HuyBao" />
+</a></p>
 
 
 <h2 align="center">👽 Where to find me 👽</h2>
@@ -18,3 +32,4 @@
     <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hbaodev-email" />
   </a>
 </div>
+</body>
