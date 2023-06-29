@@ -9,7 +9,7 @@
 <!-- https://icons8.com -->
 <div align="center">
   <a href="https://hbaodz.click/" target="blank">
-    <img width="90" height="90" src="images/logo-trungquandev-transparent-bg-192x192.png" alt="hbaodev-blog" />
+    <img width="90" height="90" src="https://hbaodz.click/assets/img/favicon.png" alt="hbaodev-blog" />
   </a>
   <a href="https://facebook.com/hbaocuaem" target="blank">
     <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hbaodev-facebook" />
