@@ -1,19 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-.rainbow-text {
-  font-size: 24px; /* Điều chỉnh kích thước chữ */
-  text-align: center; /* Căn giữa văn bản */
-  background-image: linear-gradient(to right, violet, indigo, blue, green, yellow, orange, red);
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
-  display: inline-block;
-}
-</style>
-</head>
-<body>
-<p><span class="rainbow-text">Where to find me:</span> <a href="#" target="_blank">
+
   <img src="svg/hbaodev.svg" width="1200" alt="HuyBao" />
 </a></p>
 
