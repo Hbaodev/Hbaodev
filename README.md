@@ -1,4 +1,5 @@
-<img src="svg/hbaodev.svg" width="1200" alt="HuyBao" />
+
+  <img src="svg/hbaodev.svg" width="1200" alt="HuyBao" />
 
   <h2 class="centered-text">Languages and Tools:</h2>
   <br>
@@ -19,3 +20,4 @@
     </a>
   </div>
 </body>
+
