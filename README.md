@@ -10,10 +10,10 @@
   <!-- https://icons8.com -->
   <div align="center">
     <a href="https://facebook.com/huybao.info" target="blank">
-      <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="hbaodev-facebook" />
+      <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="huybaodev-facebook" />
     </a>
     <a href="mailto:huybaodev@hotmail.com" target="top">
-      <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="hbaodev-email" />
+      <img src="https://img.icons8.com/bubbles/100/000000/apple-mail.png" alt="huybaodev-email" />
     </a>
   </div>
 </body>
