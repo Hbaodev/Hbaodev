@@ -9,7 +9,7 @@
   <br>
   <!-- https://icons8.com -->
   <div align="center">
-    <a href="https://facebook.com/huybao.info" target="blank">
+    <a href="https://facebook.com/CodeWithHuyBao" target="blank">
       <img src="https://img.icons8.com/bubbles/100/000000/facebook-new.png" alt="huybaodev-facebook" />
     </a>
     <a href="mailto:huybaodev@hotmail.com" target="top">
